@@ -1,0 +1,14 @@
+Version 1.2.0 - April 5, 2026
+
+Added new water trap ability
+Improved projectile accuracy
+Fixed camera shake inconsistency
+Optimized ability wheel performance
+
+---
+
+Version 1.1.0 - March 30, 2026
+
+Added XP system
+Introduced ranks (Initiate → Zenith)
+UI polish for topbar
