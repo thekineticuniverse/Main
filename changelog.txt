@@ -1,9 +1,21 @@
 Version 1.2.0 - April 5, 2026
 
-Added new water trap ability
-Improved projectile accuracy
-Fixed camera shake inconsistency
-Optimized ability wheel performance
+NEW
+• Introduced initial repository structure to support modular expansion and clearer separation of concerns.
+• Added documentation placeholders for upcoming system components and internal workflow specifications.
+• Implemented baseline metadata updates to improve repository indexing and project visibility.
+
+CHANGES
+• Refactored file organization to align with standardized project layout conventions.
+• Updated internal documentation for improved clarity, consistency, and technical accuracy.
+• Revised naming conventions across scripts to enforce uniformity and enhance maintainability.
+• Standardized formatting across UI‑related files, including indentation, spacing, and structural alignment.
+• Enhanced changelog formatting to follow a formalized, section‑based update structure.
+
+FIXES
+• Corrected minor formatting inconsistencies in multiple UI and utility scripts.
+• Resolved annotation gaps by adding clarifying comments to key logic sections.
+• Addressed minor repository clutter by removing outdated or unused assets.
 
 ---
 
