@@ -5,7 +5,10 @@
 		"Mobility": 4,
 		"Control": 9,
 		"Difficulty": 3.5,
-		"Tags":["Test","Test2"]
+		"Tags": [
+			"Test",
+			"Test2"
+		]
 	},
 
 	"Pyrokinesis": {
