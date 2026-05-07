@@ -5,7 +5,7 @@
 		"Mobility": 4,
 		"Control": 9,
 		"Difficulty": 3.5,
-		"Tags":{}
+		"Tags":{"Test",}
 	},
 
 	"Pyrokinesis": {
