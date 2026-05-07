@@ -4,7 +4,8 @@
 		"Defense": 8,
 		"Mobility": 4,
 		"Control": 9,
-		"Difficulty": 3.5
+		"Difficulty": 3.5,
+		tags:{"Test"}
 	},
 
 	"Pyrokinesis": {
