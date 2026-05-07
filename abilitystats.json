@@ -4,7 +4,7 @@
 		"Defense": 8,
 		"Mobility": 4,
 		"Control": 9,
-		"Difficulty": 0.5
+		"Difficulty": 3.5
 	},
 
 	"Pyrokinesis": {
@@ -12,7 +12,7 @@
 		"Defense": 3,
 		"Mobility": 6,
 		"Control": 5,
-		"Difficulty": 0.5
+		"Difficulty": 2.0
 	},
 
 	"Aerokinesis": {
@@ -20,7 +20,7 @@
 		"Defense": 2,
 		"Mobility": 10,
 		"Control": 7,
-		"Difficulty": 0.5
+		"Difficulty": 4.0
 	},
 
 	"Terrakinesis": {
@@ -28,7 +28,7 @@
 		"Defense": 10,
 		"Mobility": 2,
 		"Control": 6,
-		"Difficulty": 0.5
+		"Difficulty": 2.5
 	},
 
 	"Electrokinesis": {
@@ -36,7 +36,7 @@
 		"Defense": 4,
 		"Mobility": 9,
 		"Control": 6,
-		"Difficulty": 0.5
+		"Difficulty": 4.0
 	},
 	
 	"Cryokinesis": {
@@ -44,7 +44,7 @@
 		"Defense": 7,
 		"Mobility": 3,
 		"Control": 10,
-		"Difficulty": 0.5
+		"Difficulty": 3.5
 	},
 
 	"Chlorokinesis": {
@@ -52,7 +52,7 @@
 		"Defense": 8,
 		"Mobility": 4,
 		"Control": 8,
-		"Difficulty": 0.5
+		"Difficulty": 3.0
 	},
 
 	"Ergokinesis": {
@@ -60,7 +60,7 @@
 		"Defense": 5,
 		"Mobility": 8,
 		"Control": 4,
-		"Difficulty": 0.5
+		"Difficulty": 4.5
 	},
 
 	"Telekinesis": {
@@ -68,7 +68,7 @@
 		"Defense": 5,
 		"Mobility": 7,
 		"Control": 10,
-		"Difficulty": 0.5
+		"Difficulty": 5.0
 	},
 
 	"Ferrokinesis": {
@@ -76,7 +76,7 @@
 		"Defense": 9,
 		"Mobility": 3,
 		"Control": 7,
-		"Difficulty": 0.5
+		"Difficulty": 3.5
 	},
 
 	"Echokinesis": {
@@ -84,7 +84,7 @@
 		"Defense": 3,
 		"Mobility": 8,
 		"Control": 9,
-		"Difficulty": 0.5
+		"Difficulty": 4.0
 	},
 
 	"Gravikinesis": {
@@ -92,7 +92,7 @@
 		"Defense": 8,
 		"Mobility": 5,
 		"Control": 10,
-		"Difficulty": 0.5
+		"Difficulty": 4.5
 	},
 
 	"Photokinesis": {
@@ -100,7 +100,7 @@
 		"Defense": 4,
 		"Mobility": 9,
 		"Control": 6,
-		"Difficulty": 0.5
+		"Difficulty": 4.0
 	},
 
 	"Umbrakinesis": {
@@ -108,7 +108,7 @@
 		"Defense": 5,
 		"Mobility": 8,
 		"Control": 8,
-		"Difficulty": 0.5
+		"Difficulty": 4.0
 	},
 
 	"Amokinesis": {
@@ -116,7 +116,7 @@
 		"Defense": 2,
 		"Mobility": 7,
 		"Control": 3,
-		"Difficulty": 0.5
+		"Difficulty": 3.0
 	},
 
 	"Atmokinesis": {
@@ -124,7 +124,7 @@
 		"Defense": 6,
 		"Mobility": 7,
 		"Control": 8,
-		"Difficulty": 0.5
+		"Difficulty": 4.5
 	},
 
 	"Haemokinesis": {
@@ -132,7 +132,7 @@
 		"Defense": 6,
 		"Mobility": 5,
 		"Control": 9,
-		"Difficulty": 0.5
+		"Difficulty": 4.5
 	},
 
 	"Dosikinesis": {
@@ -140,7 +140,7 @@
 		"Defense": 7,
 		"Mobility": 4,
 		"Control": 9,
-		"Difficulty": 0.5
+		"Difficulty": 5.0
 	},
 
 	"Soulekinesis": {
@@ -148,7 +148,7 @@
 		"Defense": 5,
 		"Mobility": 6,
 		"Control": 10,
-		"Difficulty": 0.5
+		"Difficulty": 5.0
 	},
 
 	"Essokinesis": {
@@ -156,7 +156,7 @@
 		"Defense": 8,
 		"Mobility": 5,
 		"Control": 8,
-		"Difficulty": 0.5
+		"Difficulty": 4.5
 	},
 
 	"Telepathy": {
@@ -164,7 +164,7 @@
 		"Defense": 6,
 		"Mobility": 4,
 		"Control": 10,
-		"Difficulty": 0.5
+		"Difficulty": 4.0
 	},
 
 	"Chronokinesis": {
@@ -172,7 +172,7 @@
 		"Defense": 7,
 		"Mobility": 10,
 		"Control": 10,
-		"Difficulty": 0.5
+		"Difficulty": 5.0
 	},
 
 	"Spaciokinesis": {
@@ -180,7 +180,7 @@
 		"Defense": 8,
 		"Mobility": 10,
 		"Control": 10,
-		"Difficulty": 0.5
+		"Difficulty": 5.0
 	},
 
 	"Omnikinesis": {
@@ -188,6 +188,6 @@
 		"Defense": 10,
 		"Mobility": 10,
 		"Control": 10,
-		"Difficulty": 0.5
+		"Difficulty": 5.0
 	}
 }
