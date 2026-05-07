@@ -18,146 +18,146 @@
 		"Defense": 2,
 		"Mobility": 10,
 		"Control": 6
-	}
+	},
 	
 	"Terrakinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Cyrokinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Chlorokinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Ergokinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Telekinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Ferrokinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Echokinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Gravikinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Photokinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Umbrakinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Amokinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Atmokinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Haemokinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Dósikinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Soulekinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Essokinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Telepathy": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Chronokinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Spaciokinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 
 	"Omnikinesis": {
 		"Offense": 0,
 		"Defense": 0,
 		"Mobility": 0,
 		"Control": 0
-	}
+	},
 	
 }
