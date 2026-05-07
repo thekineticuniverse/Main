@@ -1,0 +1,22 @@
+{
+	"Hydrokinesis": {
+		"Offense": 6,
+		"Defense": 8,
+		"Mobility": 4,
+		"Control": 9
+	},
+
+	"Pyrokinesis": {
+		"Offense": 9,
+		"Defense": 3,
+		"Mobility": 6,
+		"Control": 5
+	},
+
+	"Aerokinesis": {
+		"Offense": 5,
+		"Defense": 2,
+		"Mobility": 10,
+		"Control": 6
+	}
+}
