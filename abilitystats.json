@@ -16,7 +16,7 @@
 		"Defense": 3,
 		"Mobility": 6,
 		"Control": 5,
-		"Difficulty": 2.0
+		"Difficulty": 2.0,
 		"Tags": [
 			
 		]
@@ -27,7 +27,11 @@
 		"Defense": 2,
 		"Mobility": 10,
 		"Control": 7,
-		"Difficulty": 4.0
+		"Difficulty": 4.0,
+		"Tags": [
+			"Test",
+			"Test2"
+		]
 	},
 
 	"Terrakinesis": {
