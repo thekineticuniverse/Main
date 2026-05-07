@@ -86,7 +86,8 @@
 		"Control": 4,
 		"Difficulty": 4.5,
 		"Tags": [
-			"Elemental"
+			"Elemental",
+			"Customizable"
 		]
 	},
 
@@ -97,7 +98,7 @@
 		"Control": 10,
 		"Difficulty": 5.0,
 		"Tags": [
-			
+			"Customizable"
 		]
 	},
 
@@ -108,7 +109,7 @@
 		"Control": 7,
 		"Difficulty": 3.5,
 		"Tags": [
-			
+			"Customizable"
 		]
 	},
 
@@ -130,7 +131,8 @@
 		"Control": 10,
 		"Difficulty": 4.5,
 		"Tags": [
-			"Cosmic"
+			"Cosmic",
+			"Customizable"
 		]
 	},
 
@@ -218,7 +220,8 @@
 		"Control": 8,
 		"Difficulty": 4.5,
 		"Tags": [
-			"Cosmic"
+			"Cosmic",
+			"Customizable"
 		]
 	},
 
@@ -251,7 +254,8 @@
 		"Control": 10,
 		"Difficulty": 5.0,
 		"Tags": [
-			"Cosmic"
+			"Cosmic",
+			"Customizable"
 		]
 	},
 
@@ -263,6 +267,7 @@
 		"Difficulty": 5.0,
 		"Tags": [
 			"Cosmic",
+			"Customizable",
 			"Restricted"
 		]
 	}
