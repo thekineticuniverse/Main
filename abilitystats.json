@@ -17,147 +17,146 @@
 		"Offense": 5,
 		"Defense": 2,
 		"Mobility": 10,
-		"Control": 6
+		"Control": 7
 	},
-	
+
 	"Terrakinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 7,
+		"Defense": 10,
+		"Mobility": 2,
+		"Control": 6
 	},
 
 	"Cryokinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 7,
+		"Defense": 7,
+		"Mobility": 3,
+		"Control": 10
 	},
 
 	"Chlorokinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 5,
+		"Defense": 8,
+		"Mobility": 4,
+		"Control": 8
 	},
 
 	"Ergokinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 10,
+		"Defense": 5,
+		"Mobility": 8,
+		"Control": 4
 	},
 
 	"Telekinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 6,
+		"Defense": 5,
+		"Mobility": 7,
+		"Control": 10
 	},
 
 	"Ferrokinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 8,
+		"Defense": 9,
+		"Mobility": 3,
+		"Control": 7
 	},
 
 	"Echokinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 6,
+		"Defense": 3,
+		"Mobility": 8,
+		"Control": 9
 	},
 
 	"Gravikinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 9,
+		"Defense": 8,
+		"Mobility": 5,
+		"Control": 10
 	},
 
 	"Photokinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 8,
+		"Defense": 4,
+		"Mobility": 9,
+		"Control": 6
 	},
 
 	"Umbrakinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 8,
+		"Defense": 5,
+		"Mobility": 8,
+		"Control": 8
 	},
 
 	"Amokinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 10,
+		"Defense": 2,
+		"Mobility": 7,
+		"Control": 3
 	},
 
 	"Atmokinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 7,
+		"Defense": 6,
+		"Mobility": 7,
+		"Control": 8
 	},
 
 	"Haemokinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 9,
+		"Defense": 6,
+		"Mobility": 5,
+		"Control": 9
 	},
 
 	"Dósikinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 8,
+		"Defense": 7,
+		"Mobility": 4,
+		"Control": 9
 	},
 
 	"Soulekinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 8,
+		"Defense": 5,
+		"Mobility": 6,
+		"Control": 10
 	},
 
 	"Essokinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 7,
+		"Defense": 8,
+		"Mobility": 5,
+		"Control": 8
 	},
 
 	"Telepathy": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 3,
+		"Defense": 6,
+		"Mobility": 4,
+		"Control": 10
 	},
 
 	"Chronokinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 9,
+		"Defense": 7,
+		"Mobility": 10,
+		"Control": 10
 	},
 
 	"Spaciokinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 8,
+		"Defense": 8,
+		"Mobility": 10,
+		"Control": 10
 	},
 
 	"Omnikinesis": {
-		"Offense": 0,
-		"Defense": 0,
-		"Mobility": 0,
-		"Control": 0
+		"Offense": 10,
+		"Defense": 10,
+		"Mobility": 10,
+		"Control": 10
 	}
-	
 }
