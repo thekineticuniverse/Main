@@ -6,8 +6,7 @@
 		"Control": 9,
 		"Difficulty": 3.5,
 		"Tags": [
-			"Test",
-			"Test2"
+			
 		]
 	},
 
@@ -29,8 +28,7 @@
 		"Control": 7,
 		"Difficulty": 4.0,
 		"Tags": [
-			"Test",
-			"Test2"
+			
 		]
 	},
 
@@ -39,7 +37,10 @@
 		"Defense": 10,
 		"Mobility": 2,
 		"Control": 6,
-		"Difficulty": 2.5
+		"Difficulty": 2.5,
+		"Tags": [
+			
+		]
 	},
 
 	"Electrokinesis": {
@@ -47,7 +48,10 @@
 		"Defense": 4,
 		"Mobility": 9,
 		"Control": 6,
-		"Difficulty": 4.0
+		"Difficulty": 4.0,
+		"Tags": [
+			
+		]
 	},
 	
 	"Cryokinesis": {
@@ -55,7 +59,10 @@
 		"Defense": 7,
 		"Mobility": 3,
 		"Control": 10,
-		"Difficulty": 3.5
+		"Difficulty": 3.5,
+		"Tags": [
+			
+		]
 	},
 
 	"Chlorokinesis": {
@@ -63,7 +70,10 @@
 		"Defense": 8,
 		"Mobility": 4,
 		"Control": 8,
-		"Difficulty": 3.0
+		"Difficulty": 3.0,
+		"Tags": [
+			
+		]
 	},
 
 	"Ergokinesis": {
@@ -71,7 +81,10 @@
 		"Defense": 5,
 		"Mobility": 8,
 		"Control": 4,
-		"Difficulty": 4.5
+		"Difficulty": 4.5,
+		"Tags": [
+			
+		]
 	},
 
 	"Telekinesis": {
@@ -79,7 +92,10 @@
 		"Defense": 5,
 		"Mobility": 7,
 		"Control": 10,
-		"Difficulty": 5.0
+		"Difficulty": 5.0,
+		"Tags": [
+			
+		]
 	},
 
 	"Ferrokinesis": {
@@ -87,7 +103,10 @@
 		"Defense": 9,
 		"Mobility": 3,
 		"Control": 7,
-		"Difficulty": 3.5
+		"Difficulty": 3.5,
+		"Tags": [
+			
+		]
 	},
 
 	"Echokinesis": {
@@ -95,7 +114,10 @@
 		"Defense": 3,
 		"Mobility": 8,
 		"Control": 9,
-		"Difficulty": 4.0
+		"Difficulty": 4.0,
+		"Tags": [
+			
+		]
 	},
 
 	"Gravikinesis": {
@@ -103,7 +125,10 @@
 		"Defense": 8,
 		"Mobility": 5,
 		"Control": 10,
-		"Difficulty": 4.5
+		"Difficulty": 4.5,
+		"Tags": [
+			
+		]
 	},
 
 	"Photokinesis": {
@@ -111,7 +136,10 @@
 		"Defense": 4,
 		"Mobility": 9,
 		"Control": 6,
-		"Difficulty": 4.0
+		"Difficulty": 4.0,
+		"Tags": [
+			
+		]
 	},
 
 	"Umbrakinesis": {
@@ -119,7 +147,10 @@
 		"Defense": 5,
 		"Mobility": 8,
 		"Control": 8,
-		"Difficulty": 4.0
+		"Difficulty": 4.0,
+		"Tags": [
+			
+		]
 	},
 
 	"Amokinesis": {
@@ -127,7 +158,10 @@
 		"Defense": 2,
 		"Mobility": 7,
 		"Control": 3,
-		"Difficulty": 3.0
+		"Difficulty": 3.0,
+		"Tags": [
+			
+		]
 	},
 
 	"Atmokinesis": {
@@ -135,7 +169,10 @@
 		"Defense": 6,
 		"Mobility": 7,
 		"Control": 8,
-		"Difficulty": 4.5
+		"Difficulty": 4.5,
+		"Tags": [
+			
+		]
 	},
 
 	"Haemokinesis": {
@@ -143,7 +180,10 @@
 		"Defense": 6,
 		"Mobility": 5,
 		"Control": 9,
-		"Difficulty": 4.5
+		"Difficulty": 4.5,
+		"Tags": [
+			
+		]
 	},
 
 	"Dosikinesis": {
@@ -151,7 +191,10 @@
 		"Defense": 7,
 		"Mobility": 4,
 		"Control": 9,
-		"Difficulty": 5.0
+		"Difficulty": 5.0,
+		"Tags": [
+			
+		]
 	},
 
 	"Soulekinesis": {
@@ -159,7 +202,10 @@
 		"Defense": 5,
 		"Mobility": 6,
 		"Control": 10,
-		"Difficulty": 5.0
+		"Difficulty": 5.0,
+		"Tags": [
+			
+		]
 	},
 
 	"Essokinesis": {
@@ -167,7 +213,10 @@
 		"Defense": 8,
 		"Mobility": 5,
 		"Control": 8,
-		"Difficulty": 4.5
+		"Difficulty": 4.5,
+		"Tags": [
+			
+		]
 	},
 
 	"Telepathy": {
@@ -175,7 +224,10 @@
 		"Defense": 6,
 		"Mobility": 4,
 		"Control": 10,
-		"Difficulty": 4.0
+		"Difficulty": 4.0,
+		"Tags": [
+			
+		]
 	},
 
 	"Chronokinesis": {
@@ -183,7 +235,10 @@
 		"Defense": 7,
 		"Mobility": 10,
 		"Control": 10,
-		"Difficulty": 5.0
+		"Difficulty": 5.0,
+		"Tags": [
+			
+		]
 	},
 
 	"Spaciokinesis": {
@@ -191,7 +246,10 @@
 		"Defense": 8,
 		"Mobility": 10,
 		"Control": 10,
-		"Difficulty": 5.0
+		"Difficulty": 5.0,
+		"Tags": [
+			
+		]
 	},
 
 	"Omnikinesis": {
@@ -199,6 +257,9 @@
 		"Defense": 10,
 		"Mobility": 10,
 		"Control": 10,
-		"Difficulty": 5.0
+		"Difficulty": 5.0,
+		"Tags": [
+			
+		]
 	}
 }
