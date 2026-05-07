@@ -6,7 +6,8 @@
 		"Control": 9,
 		"Difficulty": 3.5,
 		"Tags": [
-			
+			"Beginner",
+			"Elemental"
 		]
 	},
 
@@ -17,7 +18,8 @@
 		"Control": 5,
 		"Difficulty": 2.0,
 		"Tags": [
-			
+			"Beginner",
+			"Elemental"
 		]
 	},
 
@@ -28,7 +30,8 @@
 		"Control": 7,
 		"Difficulty": 4.0,
 		"Tags": [
-			
+			"Beginner",
+			"Elemental"
 		]
 	},
 
@@ -39,7 +42,7 @@
 		"Control": 6,
 		"Difficulty": 2.5,
 		"Tags": [
-			
+			"Elemental"
 		]
 	},
 
@@ -50,7 +53,7 @@
 		"Control": 6,
 		"Difficulty": 4.0,
 		"Tags": [
-			
+			"Elemental"
 		]
 	},
 	
@@ -61,7 +64,7 @@
 		"Control": 10,
 		"Difficulty": 3.5,
 		"Tags": [
-			
+			"Elemental"
 		]
 	},
 
@@ -72,7 +75,7 @@
 		"Control": 8,
 		"Difficulty": 3.0,
 		"Tags": [
-			
+			"Elemental"
 		]
 	},
 
@@ -83,7 +86,7 @@
 		"Control": 4,
 		"Difficulty": 4.5,
 		"Tags": [
-			
+			"Elemental"
 		]
 	},
 
@@ -127,7 +130,7 @@
 		"Control": 10,
 		"Difficulty": 4.5,
 		"Tags": [
-			
+			"Cosmic"
 		]
 	},
 
@@ -138,7 +141,7 @@
 		"Control": 6,
 		"Difficulty": 4.0,
 		"Tags": [
-			
+			"Cosmic"
 		]
 	},
 
@@ -149,7 +152,7 @@
 		"Control": 8,
 		"Difficulty": 4.0,
 		"Tags": [
-			
+			"Cosmic"
 		]
 	},
 
@@ -215,7 +218,7 @@
 		"Control": 8,
 		"Difficulty": 4.5,
 		"Tags": [
-			
+			"Cosmic"
 		]
 	},
 
@@ -237,7 +240,7 @@
 		"Control": 10,
 		"Difficulty": 5.0,
 		"Tags": [
-			
+			"Cosmic"
 		]
 	},
 
@@ -248,7 +251,7 @@
 		"Control": 10,
 		"Difficulty": 5.0,
 		"Tags": [
-			
+			"Cosmic"
 		]
 	},
 
@@ -259,7 +262,8 @@
 		"Control": 10,
 		"Difficulty": 5.0,
 		"Tags": [
-			
+			"Cosmic",
+			"Restricted"
 		]
 	}
 }
